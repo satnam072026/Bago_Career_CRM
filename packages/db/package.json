@@ -1,0 +1,12 @@
+{
+  "name": "@sandeep-workspace/db",
+  "version": "2.4.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "scripts": {
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate deploy",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.json"
+  }
+}

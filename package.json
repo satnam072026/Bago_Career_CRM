@@ -1,0 +1,31 @@
+{
+  "name": "bago-career-crm",
+  "version": "2.4.0",
+  "description": "Bago Career CRM & Enterprise Opportunity Workspace",
+  "private": true,
+  "packageManager": "pnpm@9.12.2",
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "scripts": {
+    "dev": "node scripts/serve_localhost.mjs",
+    "serve": "node scripts/serve_localhost.mjs",
+    "dev:all": "pnpm --parallel -r dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "test": "node tests/run_verification_suite.mjs && vitest run",
+    "test:unit": "node tests/run_verification_suite.mjs",
+    "test:e2e": "playwright test",
+    "db:generate": "pnpm --filter @sandeep-workspace/db prisma:generate",
+    "db:migrate": "pnpm --filter @sandeep-workspace/db prisma:migrate"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.48.2",
+    "@types/node": "20.16.11",
+    "eslint": "8.57.1",
+    "prettier": "3.3.3",
+    "typescript": "5.6.3",
+    "vitest": "2.1.3"
+  }
+}

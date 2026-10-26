@@ -1,0 +1,26 @@
+export const ENTERPRISE_DESIGN_TOKENS = {
+  light: {
+    appBackground: '#F6F8FB',
+    surface: '#FFFFFF',
+    elevatedSurface: '#F0F4F9',
+    mainText: '#172235',
+    secondaryText: '#5A6A7F',
+    primaryAction: '#2459B8',
+    positive: '#137C61',
+    warning: '#A96318',
+    error: '#B63B4A',
+    border: '#DCE4EE',
+  },
+  dark: {
+    appBackground: '#0D1420',
+    surface: '#151F2E',
+    elevatedSurface: '#1B293A',
+    mainText: '#E8EFF8',
+    secondaryText: '#A3B3C8',
+    primaryAction: '#76A7FF',
+    positive: '#5DD6B0',
+    warning: '#FFC279',
+    error: '#FF8896',
+    border: '#304053',
+  },
+} as const;

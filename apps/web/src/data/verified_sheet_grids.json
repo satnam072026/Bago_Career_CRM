@@ -1,0 +1,1807 @@
+{
+  "1XK8GFq7VXVcCTu4zdkuxLY6aWLNFjSKz2VQrEV9lEZk": {
+    "09 Oct 2026": [
+      [
+        "Discovery Date",
+        "Discovery Time (Cyprus)",
+        "Job Title",
+        "Company / Employer",
+        "Job Category",
+        "Seniority",
+        "Country",
+        "City / Location",
+        "Work Arrangement",
+        "Match Score",
+        "Job Status",
+        "Application Status",
+        "Priority",
+        "Direct Apply URL",
+        "Verified Email"
+      ],
+      [
+        "2026-10-09",
+        "01:55:00",
+        "Junior Web Developer (Opium Works)",
+        "Digital Tree",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior",
+        "Cyprus",
+        "Nicosia",
+        "Hybrid / On-site",
+        93,
+        "Open",
+        "Not Applied",
+        "High",
+        "https://ergodotisi.com/en-CY/jobs/junior-web-developer-opium-works-93971061",
+        "careers@digitaltree.com.cy"
+      ],
+      [
+        "2026-10-09",
+        "01:55:00",
+        "UI/UX & Web Designer",
+        "MITRADE EU LTD",
+        "CATEGORY B \u2014 Web Design & UI/UX",
+        "Junior / Mid",
+        "Cyprus",
+        "Limassol",
+        "Hybrid / On-site",
+        91,
+        "Open",
+        "Not Applied",
+        "High",
+        "https://ergodotisi.com/el-CY/jobs/ui-ux-web-designer-42175903",
+        "cs@mitrade.com"
+      ],
+      [
+        "2026-10-09",
+        "01:55:00",
+        "Junior Frontend Software Developer",
+        "Reed Specialist / iGaming Client",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Graduate / Junior",
+        "Malta",
+        "Sliema",
+        "Full-time Hybrid",
+        94,
+        "Open",
+        "Not Applied",
+        "High",
+        "https://www.nextmove.mt/CNTQP3TYEJ/sliema-malta/full-time/junior-frontend-software-developer",
+        "info@nextmove.mt"
+      ],
+      [
+        "2026-10-09",
+        "01:55:00",
+        "Frontend Software Engineer (React/Next.js)",
+        "High-Growth Consumer AI Scaleup (GRS)",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior-to-Mid",
+        "Cyprus",
+        "Limassol",
+        "Hybrid",
+        95,
+        "Open",
+        "Not Applied",
+        "High",
+        "https://jobs.grsrecruitment.com/job/frontend-software-engineer-(reactnextjs)-11620.aspx",
+        "limassol@grsrecruitment.com"
+      ],
+      [
+        "2026-10-12",
+        "12:31:00",
+        "Junior Web Developer (CY22115C)",
+        "Almond Recruitment Client",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior",
+        "Cyprus",
+        "Nicosia",
+        "On-site / Hybrid",
+        92,
+        "Open",
+        "Applied (12 Oct)",
+        "High",
+        "https://www.almondrecruitment.org/",
+        "info@almondrecruitment.org"
+      ],
+      [
+        "2026-10-12",
+        "12:31:00",
+        "Web Developer (CAR7127)",
+        "CareerFinders Client",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior / Mid",
+        "Cyprus",
+        "Limassol",
+        "Hybrid",
+        90,
+        "Open",
+        "Applied (12 Oct)",
+        "High",
+        "https://www.careerfinders.com.cy/",
+        "jobs@careerfinders.com.cy"
+      ],
+      [
+        "2026-10-12",
+        "12:31:00",
+        "Junior Web Developer (CAR8113)",
+        "CareerFinders Client",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior",
+        "Cyprus",
+        "Nicosia",
+        "On-site / Hybrid",
+        91,
+        "Open",
+        "Applied (12 Oct)",
+        "High",
+        "https://www.careerfinders.com.cy/",
+        "jobs@careerfinders.com.cy"
+      ],
+      [
+        "2026-10-12",
+        "13:45:00",
+        "Junior Web Developer (DPJWD24)",
+        "Delfi Partners & Co",
+        "CATEGORY A \u2014 Web & Frontend",
+        "Junior",
+        "Cyprus",
+        "Nicosia",
+        "On-site",
+        89,
+        "Open",
+        "Applied (12 Oct)",
+        "High",
+        "https://delfipartners.com/",
+        "careerscy@delfipartners.com"
+      ],
+      [
+        "AVERAGE / TOTAL",
+        "",
+        "8 Sampled Cohort Rows",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Avg Match:",
+        "=AVERAGE(J2:J9)",
+        "Max Match:",
+        "=MAX(J2:J9)",
+        "Count:",
+        "=COUNT(J2:J9)",
+        ""
+      ]
+    ]
+  },
+  "14mno6FObxlEOvCP2Z-bL-1giV6osFT9gwOKUQfGiLbU": {
+    "Executive Dashboard": [
+      [
+        "Category Code & Name",
+        "Core Technical Domain",
+        "Vacancies",
+        "% Share",
+        "Avg Match Score",
+        "Strategic Region",
+        "Live Openings"
+      ],
+      [
+        "Category A",
+        "Web & Frontend Development",
+        199,
+        "25.4%",
+        93.4,
+        "Cyprus (Primary Priority)",
+        430
+      ],
+      [
+        "Category B",
+        "Web Design, UI/UX & Creative",
+        18,
+        "2.3%",
+        91.8,
+        "Malta (Secondary Priority)",
+        134
+      ],
+      [
+        "Category C",
+        "Digital Marketing, SEO & Content",
+        68,
+        "8.7%",
+        90.5,
+        "Ireland (Tertiary Priority)",
+        116
+      ],
+      [
+        "Category D",
+        "QA, Testing & IT Technical Support",
+        221,
+        "28.2%",
+        91.2,
+        "Poland (Shared Service Hubs)",
+        37
+      ],
+      [
+        "Category E",
+        "Digital Operations, CMS & Data",
+        53,
+        "6.8%",
+        89.6,
+        "Germany (EU Blue Card)",
+        22
+      ],
+      [
+        "Category F",
+        "Office, Admin & Computer Roles",
+        225,
+        "28.7%",
+        88.1,
+        "Other EU Member States",
+        45
+      ],
+      [
+        "Total (Formula Verified)",
+        "All Technical & Operational Domains",
+        "=SUM(C2:C7)",
+        "100.0%",
+        "=AVERAGE(E2:E7)",
+        "Total EU Database (27 States)",
+        "=SUM(G2:G7)"
+      ]
+    ],
+    "All Vacancies Master": [
+      [
+        "Discovery Date",
+        "Batch",
+        "Job Title",
+        "Company / Employer",
+        "Category",
+        "Country",
+        "City",
+        "Arrangement",
+        "Match Score",
+        "Status",
+        "Priority",
+        "Direct Apply URL"
+      ],
+      [
+        "2026-10-09",
+        "00",
+        "Junior Web Developer (Opium Works)",
+        "Digital Tree",
+        "CATEGORY A",
+        "Cyprus",
+        "Nicosia",
+        "Hybrid",
+        93,
+        "Open",
+        "High",
+        "https://ergodotisi.com/en-CY/jobs/junior-web-developer-opium-works-93971061"
+      ],
+      [
+        "2026-10-09",
+        "00",
+        "UI/UX & Web Designer",
+        "MITRADE EU LTD",
+        "CATEGORY B",
+        "Cyprus",
+        "Limassol",
+        "Hybrid",
+        91,
+        "Open",
+        "High",
+        "https://ergodotisi.com/el-CY/jobs/ui-ux-web-designer-42175903"
+      ],
+      [
+        "2026-10-09",
+        "00",
+        "Junior Frontend Software Developer",
+        "Reed Malta / NextMove",
+        "CATEGORY A",
+        "Malta",
+        "Sliema",
+        "Hybrid",
+        94,
+        "Open",
+        "High",
+        "https://www.nextmove.mt/CNTQP3TYEJ/sliema-malta/full-time/junior-frontend-software-developer"
+      ],
+      [
+        "2026-10-20",
+        "18",
+        "Full-Stack Engineer (DevOps)",
+        "S.S. NetShop Internet Services Ltd",
+        "CATEGORY A",
+        "Cyprus",
+        "Larnaca",
+        "On-site",
+        90,
+        "Open",
+        "High",
+        "https://ergodotisi.com/en-CY/jobs/full-stack-engineer-devops-87327352"
+      ],
+      [
+        "2026-10-20",
+        "18",
+        "Software Developer",
+        "WEBOS SOLUTIONS LTD",
+        "CATEGORY A",
+        "Cyprus",
+        "Paphos",
+        "On-site",
+        91,
+        "Open",
+        "High",
+        "https://ergodotisi.com/en-CY/jobs/software-developer-36744170"
+      ],
+      [
+        "2026-10-20",
+        "18",
+        "Front-End Developer (Mid-Level)",
+        "Investotech",
+        "CATEGORY A",
+        "Cyprus",
+        "Limassol",
+        "Hybrid",
+        92,
+        "Open",
+        "High",
+        "https://ergodotisi.com/el-CY/jobs/front-end-developer-mid-level-12346944"
+      ]
+    ]
+  },
+  "1EmyWL8mQPyEkl5XZ4S3zfSxDYFinWIzL1c1L0ql9IF4": {
+    "APPLICATIONS": [
+      [
+        "Application ID",
+        "Application Date",
+        "Company",
+        "Job Title",
+        "Country",
+        "City",
+        "Method",
+        "Application Status",
+        "Outcome",
+        "Confirmation / Evidence",
+        "Official Job URL",
+        "Last Sync (UTC)"
+      ],
+      [
+        "app-cyprus-b-6-online-solutions",
+        "2026-10-07",
+        "Online Solutions Cyprus",
+        "Junior Web Designer",
+        "Cyprus",
+        "Limassol",
+        "PORTAL",
+        "UNRESOLVED_SUBMISSION",
+        "PENDING",
+        "Website form submitted (job6_scoped_postsubmit.png)",
+        "https://onlinesolutions.com.cy/career/junior-web-designer/",
+        "2026-10-22T04:15:25.299Z"
+      ],
+      [
+        "app-cyprus-b-7-grs-creative-designer-11503",
+        "2026-10-07",
+        "GRS Recruitment",
+        "Creative Designer",
+        "Cyprus",
+        "Nicosia",
+        "EMAIL",
+        "EMAIL_SENT",
+        "DELIVERY_UNKNOWN",
+        "Message-ID: <f36ec5df-4507-e784-1404-3a9051ce24af@gmail.com>",
+        "https://jobs.grsrecruitment.com/job/creative-designer-11503.aspx",
+        "2026-10-22T04:15:25.299Z"
+      ],
+      [
+        "app-job-lead-jb-f7302c18d876",
+        "2026-10-25",
+        "Regional Tech Solutions Firm",
+        "Junior Web Developer (VAC-N2032)",
+        "Cyprus",
+        "Nicosia / Limassol",
+        "EMAIL",
+        "SUBMITTED_BOUNCE_PENDING",
+        "NO_RESPONSE",
+        "Message-ID: <0c5b98a1-3965-0344-ade7-cdf9bce6e38e@gmail.com>",
+        "https://jobalito.com/cy/en/jobs/featured/id/lrg5162340610810/",
+        "2026-10-25T19:08:53.791Z"
+      ],
+      [
+        "app-job-eujobs-avenga-c65210c4",
+        "2026-10-25",
+        "AVENGA",
+        "Frontend Developer (Angular / React)",
+        "Poland",
+        "Wroclaw",
+        "EMAIL",
+        "SUBMITTED_BOUNCE_PENDING",
+        "NO_RESPONSE",
+        "Message-ID: <22fddca9-adc4-8194-24a2-5e27f53d6bc6@gmail.com>",
+        "https://nofluffjobs.com/job/frontend-developer-entire-m-wroclaw",
+        "2026-10-25T00:08:28.035Z"
+      ],
+      [
+        "app-job-eujobs-ssnetshopi-3ac942bc",
+        "2026-10-25",
+        "S.S. NetShop Internet Services",
+        "Full-Stack Engineer (DevOps)",
+        "Cyprus",
+        "Larnaca",
+        "EMAIL",
+        "SUBMITTED_BOUNCE_PENDING",
+        "NO_RESPONSE",
+        "Message-ID: <05b712db-90ea-50c1-95e5-c50bf46d4ed1@gmail.com>",
+        "https://ergodotisi.com/en-CY/jobs/full-stack-engineer-devops-87327352",
+        "2026-10-25T00:07:44.581Z"
+      ],
+      [
+        "app-job-eujobs-webossolut-9f6d5690",
+        "2026-10-25",
+        "WEBOS SOLUTIONS LTD",
+        "Software Developer",
+        "Cyprus",
+        "Paphos",
+        "EMAIL",
+        "SUBMITTED_BOUNCE_PENDING",
+        "NO_RESPONSE",
+        "Message-ID: <c6122eb0-7ff6-261a-3339-f1531ca5f698@gmail.com>",
+        "https://ergodotisi.com/en-CY/jobs/software-developer-36744170",
+        "2026-10-25T00:07:34.630Z"
+      ],
+      [
+        "app-exec-job-disc-1789905754673-1",
+        "2026-09-20",
+        "KoboToolbox",
+        "Frontend Web Application Developer",
+        "Remote",
+        "Global",
+        "ATS",
+        "HUMAN_BLOCKED",
+        "PENDING",
+        "Interactive CAPTCHA required on ATS portal",
+        "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+        "2026-10-22T04:15:25.299Z"
+      ],
+      [
+        "app-job-disc-1789905767157-24",
+        "2026-09-21",
+        "ClickUp",
+        "Staff Frontend Engineer",
+        "Remote",
+        "Europe",
+        "EMAIL_FALLBACK",
+        "UNRESOLVED_SUBMISSION",
+        "PENDING",
+        "Sent to talent@clickup.com (DELIVERED_NO_BOUNCE)",
+        "https://jobicy.com/jobs/152644-staff-frontend-engineer",
+        "2026-10-22T04:15:25.299Z"
+      ]
+    ]
+  },
+  "1-jsydfLBJibFJjy4dabDCOZpG7m_6bJxdxPYRWHJ1x0": {
+    "ALL LEADS": [
+      [
+        "Discovery Time (EEST)",
+        "Platform",
+        "Job / Project Title",
+        "Category",
+        "Company / Poster",
+        "Country",
+        "City",
+        "Arrangement",
+        "Match Score",
+        "Verification Status",
+        "Status",
+        "Outreach Status",
+        "Recommended Next Action",
+        "Official Website"
+      ],
+      [
+        "2026-10-09 03:30",
+        "Facebook",
+        "Junior React Front-end Developer vacancy, Nicosia",
+        "P2-junior-IT",
+        "Comparinger Jobs Cyprus",
+        "Cyprus",
+        "Nicosia",
+        "Full-time",
+        76,
+        "VERIFIED recruiter",
+        "OPEN",
+        "Not Contacted",
+        "Engage via post; ask for spec & sponsorship stance",
+        "https://www.comparinger.com"
+      ],
+      [
+        "2026-10-09 03:30",
+        "Facebook",
+        "Fluxo hiring WordPress Developer (2+ yrs, remote)",
+        "P2-junior-IT",
+        "Fluxo Studio",
+        "Remote",
+        "Remote",
+        "Remote",
+        72,
+        "Post-level verified",
+        "OPEN",
+        "Not Contacted",
+        "Apply via post; confirm stack and terms",
+        "Not stated"
+      ],
+      [
+        "2026-10-09 03:30",
+        "Facebook",
+        "Europia \u2014 Freelance Website Developer / Project Lead",
+        "P1-freelance-web",
+        "Europia UK Charity (1161453)",
+        "United Kingdom",
+        "Manchester",
+        "Remote Freelance",
+        70,
+        "VERIFIED UK Charity",
+        "OPEN",
+        "Not Contacted",
+        "Email CV, portfolio, brief & fee proposal",
+        "https://europia.org.uk"
+      ],
+      [
+        "2026-10-09 03:30",
+        "Facebook",
+        "Project-based remote CMS expert (WordPress/Elementor/GSAP)",
+        "P1-small-project",
+        "Rokunuzzaman Rafi (Wordpress2Smashing)",
+        "Remote",
+        "Remote",
+        "Project-based",
+        84,
+        "Group post verified",
+        "OPEN",
+        "Not Contacted",
+        "DM portfolio highlighting Elementor Pro & GSAP",
+        "https://sandeep-gautam.com"
+      ]
+    ]
+  },
+  "17xfgdaTDv91MfpRozRFOW_Mf8ilz3ULqiQkzQUTYMm4": {
+    "Sheet1": [
+      [
+        "#",
+        "Poster",
+        "Project",
+        "Score",
+        "Budget / Pay",
+        "Platform",
+        "Post Link",
+        "Watch Out / Risk Note",
+        "Sent?"
+      ],
+      [
+        1,
+        "@girl_spy0 (Threads)",
+        "Urgent 5-day website build",
+        89,
+        "$3,000-5,000+",
+        "Threads",
+        "https://www.threads.com/@girl_spy0/post/DeeIZvvGFpm",
+        "Posted 14 Oct, 77 comments, high competition",
+        "Pending"
+      ],
+      [
+        2,
+        "@den.ften - David (Threads)",
+        "Web design/development services wanted",
+        89,
+        "$1,200 budget",
+        "Threads",
+        "https://www.threads.com/@den.ften/post/DefbAnNDOwF",
+        "Scope undefined; ask pages/features first (45 comments)",
+        "Pending"
+      ],
+      [
+        3,
+        "Cecilia Devlin (Facebook)",
+        "Refine catering website: menu navigation + online ordering",
+        87,
+        "Quote per project",
+        "Facebook",
+        "https://www.facebook.com/groups/782571811838896/permalink/28722807090721993/",
+        "Request her change document before quoting rates",
+        "Pending"
+      ],
+      [
+        4,
+        "Kathleen KathMae - BuyBackTime",
+        "Website, SEO & Social Media + Customer Service",
+        84,
+        "$4-6 / hour",
+        "Facebook",
+        "https://www.facebook.com/groups/l1neupvos.jobs/permalink/3665416936953485/",
+        "US Eastern hours; 40% customer service calls; attach CV PDF",
+        "Pending"
+      ]
+    ],
+    "DM (123)": [
+      [
+        "Priority",
+        "Score",
+        "Poster",
+        "Project",
+        "Budget / Pay",
+        "Platform",
+        "Post Link",
+        "Watch Out",
+        "Sent?"
+      ],
+      [
+        1,
+        89,
+        "spy",
+        "Urgent 5-day website build ($3,000-5,000+)",
+        "$3,000-$5,000+",
+        "Threads",
+        "https://www.threads.com/@girl_spy0/post/DeeIZvvGFpm",
+        "Tight 5-day deadline; 77 comments",
+        ""
+      ],
+      [
+        2,
+        89,
+        "David",
+        "Web design/development services wanted ($1,200)",
+        "$1,200",
+        "Threads",
+        "https://www.threads.com/@den.ften/post/DefbAnNDOwF",
+        "Scope undefined; 45 comments",
+        ""
+      ],
+      [
+        3,
+        87,
+        "Cecilia Devlin",
+        "Freelance web developer to refine catering website",
+        "Asked to quote rates",
+        "Facebook",
+        "https://www.facebook.com/groups/782571811838896/permalink/28722807090721993/",
+        "Request change spec first",
+        ""
+      ]
+    ]
+  },
+  "11s_xEqmLBqQfOgwViT8eV5gS82eq2Fan": {
+    "Recovery Summary": [
+      [
+        "Metric",
+        "Verified Value",
+        "Operational Note",
+        "Detail"
+      ],
+      [
+        "Historic paid leads recovered",
+        3,
+        "Source",
+        "Meta Leads Center export"
+      ],
+      [
+        "Recorded as Intake",
+        3,
+        "As of",
+        "26 Oct 2026"
+      ],
+      [
+        "Assigned in Meta",
+        1,
+        "Privacy",
+        "Local private workbook; contains personal contact data"
+      ],
+      [
+        "Meta reminders set",
+        1,
+        "Immediate action",
+        "Call each lead; collect company, email and funding purpose"
+      ],
+      [
+        "Meta notes/contact history",
+        0,
+        "Do not send",
+        "Scripts are drafts only until the business contacts the lead"
+      ],
+      [
+        "Phone verified",
+        2,
+        "Total Uncontacted",
+        "=B2-B6"
+      ],
+      [
+        "Missing company/email/purpose",
+        3,
+        "Verification Rate %",
+        "=B7/B2"
+      ]
+    ],
+    "Private Lead Tracker": [
+      [
+        "Lead ID",
+        "Submitted (UTC)",
+        "Full Name",
+        "Phone Verified",
+        "UK Ltd Company",
+        "Funding Range",
+        "Platform",
+        "Campaign",
+        "Meta Stage",
+        "Assigned To",
+        "Follow-up Status",
+        "Next Action"
+      ],
+      [
+        "l:1088457863890841",
+        "2026-10-11 18:30",
+        "Mishal Alajooz",
+        "Yes",
+        "Yes",
+        "\u00a3250k\u2013\u00a3500k",
+        "fb",
+        "META_Leads_UK-Business-Finance_Video_10-16-Oct-2026",
+        "Intake",
+        "Unassigned",
+        "Untouched",
+        "Call now; verify company, purpose and email"
+      ],
+      [
+        "l:1062996426740719",
+        "2026-10-11 14:19",
+        "Paul Hope",
+        "Yes",
+        "Yes",
+        "\u00a350k\u2013\u00a3100k",
+        "fb",
+        "META_Leads_UK-Business-Finance_Video_10-16-Oct-2026",
+        "Intake",
+        "Unassigned",
+        "Untouched",
+        "Call now; verify company, purpose and email"
+      ],
+      [
+        "l:2163106727969464",
+        "2026-10-11 13:49",
+        "Kenny Ponde",
+        "No",
+        "Yes",
+        "\u00a3100k\u2013\u00a3250k",
+        "ig",
+        "META_Leads_UK-Business-Finance_Video_10-16-Oct-2026",
+        "Intake",
+        "Businesses Lending",
+        "Reminder set; not yet contacted",
+        "Reminder due 27 Oct 2026 00:08; verify company, purpose and email"
+      ]
+    ],
+    "Follow-up Scripts": [
+      [
+        "Channel",
+        "Prepared Draft Script (Do Not Send Without Human Approval)"
+      ],
+      [
+        "Call opener",
+        "Hello [First name], this is [Caller] from BusinessLending.uk. You submitted a Meta form on 11 October requesting business finance. We are a commercial finance introducer, not a lender."
+      ],
+      [
+        "Voicemail",
+        "Hello [First name], this is [Caller] from BusinessLending.uk following your recent commercial finance enquiry. We act as an introducer, and any finance is subject to provider assessment."
+      ],
+      [
+        "SMS",
+        "Hi [First name], BusinessLending.uk here. You recently requested information about business finance. We act as a commercial finance introducer, not a lender. Reply STOP to opt out."
+      ],
+      [
+        "Qualification",
+        "Company legal name; Companies House number; funding amount; purpose; trading history; annual turnover; existing facilities; preferred timing; email; consent."
+      ]
+    ],
+    "Successor Draft": [
+      [
+        "Setting",
+        "Prepared Draft Value"
+      ],
+      [
+        "Objective",
+        "Leads -> Instant form"
+      ],
+      [
+        "Special category",
+        "Financial products and services"
+      ],
+      [
+        "Location",
+        "United Kingdom (Age 18-65+ where permitted)"
+      ],
+      [
+        "Budget",
+        "No budget created or committed; requires approval"
+      ],
+      [
+        "Headline",
+        "Commercial Finance for UK Companies \u2014 Transparent introductions. No guarantees."
+      ]
+    ]
+  },
+  "1GHhkuroH-fcP6vhcP-Pnh-TQ5lKOGRbNuRoVQy1WXQs": {
+    "Overview": [
+      [
+        "Field",
+        "Value"
+      ],
+      [
+        "OPERATING WORKBOOK",
+        "BusinessLending"
+      ],
+      [
+        "Notion source",
+        "https://app.notion.com/p/1ff3196dcb5a46fa9d91f4e348dbf730"
+      ],
+      [
+        "Snapshot date",
+        "2026-10-19"
+      ],
+      [
+        "Daily briefing",
+        "08:00 Europe/Nicosia"
+      ],
+      [
+        "Export note",
+        "Data tables are snapshots, not a live Notion-to-Excel sync."
+      ],
+      [
+        "Safety rule",
+        "Never publish or contact leads without explicit human approval."
+      ]
+    ],
+    "Daily 8AM": [
+      [
+        "Time (Cyprus)",
+        "Area",
+        "Action",
+        "Safety Rule",
+        "Workspace URL"
+      ],
+      [
+        "08:00",
+        "Publishing",
+        "Review today's planned posts, captions, channels and compliance",
+        "Never publish without approval",
+        "https://app.notion.com/p/1ff3196dcb5a46fa9d91f4e348dbf730"
+      ],
+      [
+        "08:00",
+        "Compliance",
+        "Verify FCA/NACFB introducer disclosures on all assets",
+        "Hold promotional copy until sign-off",
+        "https://app.notion.com/p/1ff3196dcb5a46fa9d91f4e348dbf730"
+      ],
+      [
+        "08:00",
+        "Analytics",
+        "Retrieve platform analytics; missing records != zero performance",
+        "Do not invent CPL or CTR numbers",
+        "https://app.notion.com/p/1ff3196dcb5a46fa9d91f4e348dbf730"
+      ]
+    ],
+    "Market Areas": [
+      [
+        "Area",
+        "Research Date",
+        "Sector Fit (0-30)",
+        "Companies 10-249 Staff",
+        "Transport & Logistics",
+        "Finance-Intensive Share %",
+        "Construction",
+        "Property",
+        "Wholesale",
+        "Reachability (0-20)",
+        "Messaging Angle"
+      ],
+      [
+        "Hammersmith",
+        "2026-10-11",
+        14.5,
+        1140,
+        190,
+        27.9,
+        780,
+        635,
+        475,
+        9,
+        "Growth finance & working capital"
+      ],
+      [
+        "Manchester Central",
+        "2026-10-11",
+        24.0,
+        2450,
+        410,
+        34.2,
+        1320,
+        980,
+        740,
+        16,
+        "Commercial property & asset finance"
+      ],
+      [
+        "Birmingham Core",
+        "2026-10-11",
+        22.5,
+        2190,
+        520,
+        36.8,
+        1180,
+        810,
+        690,
+        15,
+        "Fleet, logistics & invoice finance"
+      ]
+    ],
+    "Finance Partners": [
+      [
+        "Name",
+        "Research Date",
+        "Regulatory Status",
+        "Record Type",
+        "Category",
+        "Profile / Positioning",
+        "Website"
+      ],
+      [
+        "Advocate Finance",
+        "2026-10-11",
+        "NACFB member & FCA authorisation shown",
+        "Competitor",
+        "Local broker",
+        "Colchester-based commercial/property finance broker",
+        "https://www.advocatefinance.co.uk/"
+      ]
+    ],
+    "Compliance Reviews": [
+      [
+        "Item",
+        "Status",
+        "Severity",
+        "Blocks Launch",
+        "Due Date",
+        "Issue / Requirement",
+        "Required Action"
+      ],
+      [
+        "Lead data minimisation & provider-sharing consent",
+        "Open",
+        "High",
+        "NO",
+        "2026-10-12",
+        "Introductions share data with providers; must be transparent",
+        "Collect only necessary data; record explicit consent to share"
+      ]
+    ],
+    "Publishing Calendar": [
+      [
+        "Post Title",
+        "Post ID",
+        "Date",
+        "Publishing Status",
+        "Approval Status",
+        "Compliance Status",
+        "Format",
+        "Priority",
+        "Campaign Week",
+        "Destination URL"
+      ],
+      [
+        "Story \u2014 Thank you + what's next",
+        "W3-D21-ST",
+        "2026-11-01",
+        "Not scheduled",
+        "Draft",
+        "Promotional \u2013 needs sign-off",
+        "Story",
+        "Low",
+        "Week 3 (26 Oct\u20131 Nov)",
+        "https://businesslending.uk/request-finance"
+      ]
+    ],
+    "Video Studio": [
+      [
+        "Reel",
+        "Publish Date",
+        "Production Status",
+        "Product",
+        "Duration",
+        "Aspect Ratio",
+        "Clips (8s)",
+        "First 2-Second Hook"
+      ],
+      [
+        "R5 \u2014 The auction clock",
+        "2026-10-27",
+        "Not started",
+        "Bridging loans",
+        "30 s + 3 s end card",
+        "9:16 vertical",
+        4,
+        "On-screen: 'Hammer down. Now the clock starts.'"
+      ]
+    ]
+  },
+  "1Runo2f5N0Ijw_4D_3w_gBRzRQelJ8FIbRtuzVWmksps": {
+    "Overview": [
+      [
+        "Field",
+        "Value"
+      ],
+      [
+        "OPERATING WORKBOOK",
+        "Orama Design & Build"
+      ],
+      [
+        "Notion source",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ],
+      [
+        "Snapshot date",
+        "2026-10-19"
+      ],
+      [
+        "Daily briefing",
+        "08:00 Europe/Nicosia"
+      ],
+      [
+        "Export note",
+        "Data tables are snapshots, not a live Notion-to-Excel sync."
+      ],
+      [
+        "Data note",
+        "Empty Notion databases are left empty; no invented leads, jobs, clients or results."
+      ]
+    ],
+    "Daily 8AM": [
+      [
+        "Time (Cyprus)",
+        "Area",
+        "Action",
+        "Safety Rule",
+        "Workspace"
+      ],
+      [
+        "08:00",
+        "Leads",
+        "Review enquiries, qualification and owner assignments",
+        "Only directly verified Notion and Google records",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ],
+      [
+        "08:00",
+        "Projects",
+        "Check active projects, milestones and site visits",
+        "Do not fabricate progress or clients",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ],
+      [
+        "08:00",
+        "Quotes",
+        "Review unsent quotes and follow-up dates",
+        "No client contact without approval",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ],
+      [
+        "08:00",
+        "Marketing",
+        "Review posts, photos, permissions and approvals",
+        "Do not use unapproved client photography",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ],
+      [
+        "08:00",
+        "Operations",
+        "Review overdue tasks and verified decisions",
+        "Never overwrite verified company facts",
+        "https://app.notion.com/p/9f1bf59e26174c52bb2ee1665cef2d1a"
+      ]
+    ],
+    "Verified Daily Audit": [
+      [
+        "Run Date",
+        "Area",
+        "Source ID",
+        "Status",
+        "Last Verified",
+        "Verification State",
+        "Sync Status",
+        "Records Found",
+        "Data Gaps / Risk",
+        "Next Action",
+        "Run ID"
+      ],
+      [
+        "2026-10-21",
+        "Notion Tasks",
+        "07b1a438-17bf-4309-8c44-052ea3a2b77e",
+        "Needs attention",
+        "2026-10-21",
+        "3 internal tasks created and read back",
+        "Manual write verified; recurring sync unverified",
+        3,
+        "No owner or due dates established",
+        "Assign owners",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "GHL / Leads",
+        "6b8db015-51a8-47c7-aa1b-1261fd3acdff",
+        "Cannot verify",
+        "2026-10-21",
+        "Notion mirror empty; GHL not inspected",
+        "Audit snapshot; GHL sync unverified",
+        0,
+        "Actual leads and overdue follow-ups unknown",
+        "Check GHL source and execution logs",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "Site Visits",
+        "6ae3f5b3-0434-4bba-94a7-2f742598788e",
+        "Cannot verify",
+        "2026-10-21",
+        "Notion mirror empty",
+        "Audit snapshot; calendar sync unverified",
+        0,
+        "Actual visits unknown",
+        "Check GHL and business calendar",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "Service Areas",
+        "d4e868d1-251f-42b9-aa71-7213a71d7e63",
+        "Needs attention",
+        "2026-10-21",
+        "52 rows; 8 blank postcode districts",
+        "Audit snapshot; no live sync",
+        52,
+        "Landing-page links unpopulated",
+        "Check website before updating area mappings",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "Website SEO",
+        "018ad659-c1c3-49a6-989e-a21c7c1ca93b",
+        "Needs attention",
+        "2026-10-21",
+        "One homepage record",
+        "Audit snapshot; no live SEO verification",
+        1,
+        "Review date missing",
+        "Verify current site before marking reviewed",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "SOP Library",
+        "7a39ee39-41a4-4506-9727-48e1e83a252b",
+        "Needs attention",
+        "2026-10-21",
+        "18 SOPs: 1 Active, 8 Draft, 9 Needs Owner Input",
+        "Audit snapshot; workflow unverified",
+        18,
+        "Most SOPs unapproved",
+        "Assign owners",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "2026-10-21",
+        "AI Operations",
+        "a1055428-a2a0-44fe-8476-bb71c3ecf850",
+        "Cannot verify",
+        "2026-10-21",
+        "1 workflow marked Planned",
+        "Audit snapshot; unattended sync unverified",
+        1,
+        "No current GHL or Composio execution proof",
+        "Run controlled integration test",
+        "ORA-2026-10-21-0800"
+      ],
+      [
+        "TOTAL VERIFIED RECORDS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "=SUM(H2:H8)",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Notion Sync Mirror \u2014 ORAMA": [
+      [
+        "Notion Page ID",
+        "Stable Source ID",
+        "Title",
+        "Notion Status",
+        "Notion Last Edited (UTC)",
+        "Mirror Checked At (Nicosia)",
+        "Mirror State"
+      ],
+      [
+        "40095da62f80818eacf3d135275f78a5",
+        "40095da62f80818eacf3d135275f78a5",
+        "Confirm project media permissions and approver \u2014 2026-10-21",
+        "To Do",
+        "2026-10-21T05:02:20.293Z",
+        "2026-10-21 (manual read-back)",
+        "CONNECTOR SMOKE TEST VERIFIED \u2014 SCRIPT NOT INSTALLED"
+      ]
+    ]
+  },
+  "1uZ0VRp1rYiJAHHTTiagq0U-T9ioBE6ZDUMTTI3Sfc90": {
+    "Overview": [
+      [
+        "Field",
+        "Value"
+      ],
+      [
+        "OPERATING WORKBOOK",
+        "Career"
+      ],
+      [
+        "Notion source",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ],
+      [
+        "Snapshot date",
+        "2026-10-19"
+      ],
+      [
+        "Daily briefing",
+        "08:00 Europe/Nicosia"
+      ],
+      [
+        "Export note",
+        "Data tables are snapshots, not a live Notion-to-Excel sync."
+      ],
+      [
+        "Data note",
+        "Empty Notion databases are left empty; no invented leads, jobs, clients or results."
+      ]
+    ],
+    "Daily 8AM": [
+      [
+        "Time (Cyprus)",
+        "Area",
+        "Action",
+        "Safety Rule",
+        "Workspace"
+      ],
+      [
+        "08:00",
+        "Opportunities",
+        "Validate active original vacancy sources and closing dates",
+        "Mirrors are not proof a listing is live",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ],
+      [
+        "08:00",
+        "Applications",
+        "Review applications and approved CV assets",
+        "No applications without approval",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ],
+      [
+        "08:00",
+        "Follow-ups",
+        "Review recruiter replies, next action dates and overdue contacts",
+        "No outreach sent without approval",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ],
+      [
+        "08:00",
+        "Interviews",
+        "Review next interviews and preparation",
+        "Never invent invitation details",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ],
+      [
+        "08:00",
+        "Evidence",
+        "Check experience and work authorization claims",
+        "Use verified personal evidence only",
+        "https://app.notion.com/p/ebaec6befa904ca9add4d548365f78bd"
+      ]
+    ]
+  },
+  "1zGcyFrXBXQKOrmgJngXGYfIlYm1n1s_AV_DlHJ9tgtQ": {
+    "PORTALS": [
+      [
+        "Portal",
+        "Region",
+        "Best For",
+        "How To Use",
+        "Official URL"
+      ],
+      [
+        "Prospects",
+        "UK",
+        "Graduate schemes & graduate jobs",
+        "Core graduate discovery source; verify on employer careers page.",
+        "https://www.prospects.ac.uk/"
+      ],
+      [
+        "TARGETjobs",
+        "UK",
+        "Structured graduate schemes",
+        "Strong for major employers, deadlines and scheme research.",
+        "https://targetjobs.co.uk/"
+      ],
+      [
+        "Gradcracker",
+        "UK / Europe",
+        "STEM & technology graduate roles",
+        "Prioritize software, web, technology and related graduate roles.",
+        "https://www.gradcracker.com/"
+      ],
+      [
+        "Bright Network",
+        "UK",
+        "Graduate roles & major employers",
+        "Use for structured schemes and competitive early-career programmes.",
+        "https://www.brightnetwork.co.uk/"
+      ],
+      [
+        "Milkround",
+        "UK",
+        "Graduate jobs & internships",
+        "Use as additional UK graduate discovery source.",
+        "https://www.milkround.com/"
+      ],
+      [
+        "Student Circus",
+        "UK",
+        "International graduates / sponsorship",
+        "Useful when visa sponsorship is an important eligibility factor.",
+        "https://studentcircus.com/"
+      ],
+      [
+        "EURES",
+        "EU / EEA",
+        "European employment opportunities",
+        "Use for EU-wide discovery; verify graduate level and eligibility.",
+        "https://eures.europa.eu/"
+      ],
+      [
+        "EuroBrussels",
+        "EU / Brussels",
+        "EU organisations, NGOs & early-career roles",
+        "Secondary source where relevant to digital/technology roles.",
+        "https://www.eurobrussels.com/"
+      ],
+      [
+        "LinkedIn Jobs",
+        "Global / Europe",
+        "Graduate & entry-level discovery",
+        "Discover here, then verify on the employer's official careers page.",
+        "https://www.linkedin.com/jobs/"
+      ]
+    ],
+    "ALL SCHEMES": [
+      [
+        "Date Found",
+        "Portal / Source",
+        "Country",
+        "City / Location",
+        "Company",
+        "Graduate Scheme / Role",
+        "Opportunity Type",
+        "Track / Function",
+        "Intake / Start Year",
+        "Application Deadline",
+        "Work Arrangement",
+        "Visa / Sponsorship",
+        "Status"
+      ]
+    ],
+    "DEADLINES": [
+      [
+        "Deadline",
+        "Company",
+        "Graduate Scheme / Role",
+        "Country",
+        "Portal / Source",
+        "Status",
+        "Priority",
+        "Days Left",
+        "Source URL"
+      ]
+    ]
+  },
+  "1ECo6MFxrDXpOQlTyCRGor5XUgE8e4t2zL-LXWJRFN5A": {
+    "16 Oct 2026": [
+      [
+        "Date Found",
+        "Company",
+        "Role Title",
+        "Location",
+        "Work Mode",
+        "Source",
+        "Stack",
+        "Experience",
+        "Salary",
+        "Sponsorship / Work Permit",
+        "Fit (1-10)",
+        "Status",
+        "Job URL"
+      ],
+      [
+        "16 Oct 2026",
+        "Limesharp",
+        "Junior UI/UX Designer",
+        "London, UK",
+        "Hybrid",
+        "The Brand Identity",
+        "Figma, Adobe CC, UI/UX Design Systems",
+        "Junior (0-2 yrs)",
+        "\u00a335,000 - \u00a340,000",
+        "Applicants must live in the UK (confirm sponsorship)",
+        6,
+        "New",
+        "https://the-brandidentity.com/jobs/limesharp-junior-uiux-designer-london-13303370"
+      ],
+      [
+        "16 Oct 2026",
+        "Canonical",
+        "Web Frontend Engineer - JS, CSS, React, Flutter",
+        "London / Worldwide",
+        "Remote",
+        "Greenhouse",
+        "JS, TS, CSS, React, Vanilla Framework, Flutter",
+        "Entry / Grad to Mid",
+        "$48,000 - $70,000",
+        "Globally remote; travel visas 2-4x/yr",
+        9,
+        "New",
+        "https://job-boards.greenhouse.io/canonical/jobs/5150422"
+      ],
+      [
+        "16 Oct 2026",
+        "ProfileTree",
+        "Web Developer (WordPress)",
+        "Belfast, UK",
+        "Hybrid",
+        "SimplyHired UK",
+        "WordPress, Shopify, HTML, CSS, JS, PHP, SEO",
+        "2+ years",
+        "Not stated",
+        "Unstated - confirm with hr@profiletree.com",
+        7,
+        "New",
+        "https://profiletree.com/digital-agency-career/"
+      ],
+      [
+        "16 Oct 2026",
+        "Concept Wize UK",
+        "Junior/Trainee WordPress Developer",
+        "Remote, UK",
+        "Remote",
+        "Indeed UK",
+        "WordPress, HTML5, CSS3, JS",
+        "0-1 years",
+        "Not stated",
+        "Unstated",
+        3,
+        "Expired (2022 post)",
+        "https://uk.indeed.com/viewjob?jk=f4e96f8a8435ba4f"
+      ],
+      [
+        "16 Oct 2026",
+        "Maker&Son Ltd",
+        "UI/UX Designer - Digital & ECommerce",
+        "Balcombe, UK",
+        "Hybrid",
+        "SmartRecruiters",
+        "Figma, UI Prototyping, E-Commerce UI/UX",
+        "1-3 years",
+        "Not stated",
+        "Unstated (3 days onsite)",
+        7,
+        "New",
+        "https://jobs.smartrecruiters.com/MakerSonLtd/743999789718771-ui-ux-designer-digital-ecommerce"
+      ],
+      [
+        "16 Oct 2026",
+        "Booking.com (via Dev)",
+        "Front End Developer - Flights",
+        "London, UK",
+        "Remote",
+        "SmartRecruiters",
+        "JS, TS, React, Node.js, HTML, CSS",
+        "3+ years",
+        "Not stated",
+        "Open to worldwide candidates + London relocation",
+        7,
+        "Needs Review (3+ Yrs)",
+        "https://jobs.smartrecruiters.com/Dev2/743999785181209-front-end-developer-flights"
+      ],
+      [
+        "16 Oct 2026",
+        "Acturis",
+        "Graduate Web Developer, London, 2026",
+        "London, UK",
+        "Hybrid",
+        "Recruitee",
+        "JS, React, Vue, HTML, CSS, C#",
+        "Graduate (0-1 yr)",
+        "\u00a335,000 - \u00a337,000",
+        "Unable to offer sponsorship (incl. Graduate Visas)",
+        3,
+        "Not Suitable",
+        "https://careers.acturis.com/o/graduate-web-developer-london-2026"
+      ]
+    ]
+  },
+  "10I5PEdc1pq3ZeJZ81hjDt2JKVNd8Fxl8oKytoj6Zgsk": {
+    "16Oct": [
+      [
+        "Audit Time",
+        "Region",
+        "Country",
+        "Company",
+        "Role",
+        "Canonical ID",
+        "Source Sheet",
+        "Listing Opens",
+        "Role Still Live",
+        "Fit Score",
+        "Verification Result",
+        "Official Application URL"
+      ],
+      [
+        "2026-10-16T21:10Z",
+        "INDIA",
+        "India",
+        "Zunderdog",
+        "Junior Web Developer (Fresher)",
+        "IND-20261016-01",
+        "India Jobs",
+        "YES",
+        "YES",
+        10,
+        "PASS",
+        "https://www.zunderdog.com/careers/junior-web-developer-fresher"
+      ],
+      [
+        "2026-10-16T21:10Z",
+        "INDIA",
+        "India",
+        "Pattem Digital",
+        "Junior Frontend Developer",
+        "IND-20261016-02",
+        "India Jobs",
+        "YES",
+        "YES",
+        9,
+        "PASS",
+        "https://www.pattemdigital.com/career/junior-frontend-developer"
+      ],
+      [
+        "2026-10-16T21:11Z",
+        "INDIA",
+        "India",
+        "Alpha",
+        "Frontend Design Engineer (Remote)",
+        "IND-20261016-03",
+        "India Jobs",
+        "YES",
+        "YES",
+        9,
+        "FIXED (Salary \u20b94L-\u20b98L)",
+        "https://cutshort.io/job/Frontend-Design-Engineer-Figma-React"
+      ],
+      [
+        "2026-10-16T21:11Z",
+        "INDIA",
+        "India",
+        "Headout",
+        "Frontend Engineer",
+        "IND-20261016-04",
+        "India Jobs",
+        "YES",
+        "YES",
+        9,
+        "PASS",
+        "https://job-boards.greenhouse.io/headoutcareers/jobs/470774"
+      ],
+      [
+        "2026-10-16T21:12Z",
+        "INDIA",
+        "India",
+        "Oneskai",
+        "Frontend Web Developer (Pune)",
+        "IND-20261016-05",
+        "India Jobs",
+        "YES",
+        "NO",
+        5,
+        "EXPIRED",
+        "https://oneskai.com/careers"
+      ]
+    ],
+    "18Oct": [
+      [
+        "Audit Time",
+        "Region",
+        "Country",
+        "Company",
+        "Role",
+        "Canonical ID",
+        "Source Sheet",
+        "Work Model",
+        "Salary",
+        "Fit Score",
+        "Verification Result",
+        "Official Application URL"
+      ],
+      [
+        "18 Oct 2026 12:15",
+        "India",
+        "India",
+        "Masterclass Space",
+        "WordPress Developer (project-based)",
+        "IND-20261018-01",
+        "India Jobs",
+        "Remote",
+        "\u20b930,000 - \u20b940,000 / mo",
+        10,
+        "PASS",
+        "https://wellfound.com/jobs/4824745-wordpress-developer-project-based"
+      ],
+      [
+        "18 Oct 2026 12:15",
+        "India",
+        "India",
+        "Supaboard",
+        "Frontend Developer (SDE I)",
+        "IND-20261018-02",
+        "India Jobs",
+        "Hybrid",
+        "\u20b94L - \u20b98L / yr",
+        10,
+        "PASS",
+        "https://wellfound.com/jobs/3544800-frontend-developer-sdei"
+      ],
+      [
+        "18 Oct 2026 12:15",
+        "India",
+        "India",
+        "Airveda Technologies",
+        "Product Design Associate (UI/UX)",
+        "IND-20261018-03",
+        "India Jobs",
+        "On-site",
+        "\u20b93L - \u20b95L / yr",
+        10,
+        "PASS",
+        "https://wellfound.com/jobs/4157873-product-design-associate"
+      ],
+      [
+        "18 Oct 2026 12:15",
+        "Europe",
+        "Sweden",
+        "Effektify",
+        "Junior Frontend Developer",
+        "EU-20261018-01",
+        "Eu Jobs",
+        "Hybrid",
+        "Market-rate",
+        9,
+        "PASS",
+        "https://effektify.com/karriar/junior-frontend-developer/"
+      ],
+      [
+        "18 Oct 2026 12:15",
+        "Europe",
+        "Netherlands",
+        "Coveo",
+        "Frontend Developer Intern, Winter 2027",
+        "EU-20261018-02",
+        "Eu Jobs",
+        "Hybrid / Remote",
+        "Paid Internship",
+        8,
+        "PASS",
+        "https://www.coveo.com/en/company/careers/open-positions/"
+      ]
+    ]
+  },
+  "1YbatTKvBNWxCHj8utOr6fsUKqIe6ncT2QswKFucIwOY": {
+    "Sync Audit Log": [
+      [
+        "Run Date (Cyprus)",
+        "Workspace",
+        "Source Record ID",
+        "Record Title",
+        "Record Status",
+        "Verification State",
+        "Last Verified",
+        "Sync State",
+        "Action",
+        "Owner",
+        "Evidence",
+        "Notes"
+      ],
+      [
+        "2026-10-21",
+        "BusinessLending",
+        "brain-connection-20261021",
+        "Master Notion AI Brain",
+        "Created and read verified",
+        "Manual connector test only",
+        "2026-10-21",
+        "MANUAL write / unattended NOT CONFIGURED",
+        "Connected-tool smoke test",
+        "ChatGPT setup",
+        "Notion Brain 11 source records and 7 actions read back",
+        "One-time test record; does not imply native Notion agent Google sync"
+      ]
+    ],
+    "Sources and Status": [
+      [
+        "Source",
+        "URL",
+        "Status",
+        "Last Verification",
+        "Sync Evidence"
+      ],
+      [
+        "Notion BusinessLending",
+        "https://app.notion.com/p/1ff3196dcb5a46fa9d91f4e348dbf730",
+        "Accessible; daily write unverified",
+        "2026-10-21",
+        "No successful recurring cross-app sync log"
+      ],
+      [
+        "Existing operations workbook",
+        "https://docs.google.com/spreadsheets/d/1GHhkuroH-fcP6vhcP-Pnh-TQ5lKOGRbNuRoVQy1WXQs/edit",
+        "Snapshot; not automatic sync",
+        "2026-10-21",
+        "Existing workbook, no confirmed scheduled update"
+      ]
+    ],
+    "Daily Priorities": [
+      [
+        "Priority",
+        "Coach Action",
+        "Status",
+        "Run Schedule"
+      ],
+      [
+        1,
+        "Review calendar posts and production without assuming Published",
+        "Pending source verification",
+        "08:00 Europe/Nicosia"
+      ],
+      [
+        2,
+        "Verify compliance sign-offs; hold GBP until eligibility confirmed",
+        "Pending source verification",
+        "08:00 Europe/Nicosia"
+      ],
+      [
+        3,
+        "Retrieve platform analytics; missing records are not zero performance",
+        "Pending source verification",
+        "08:00 Europe/Nicosia"
+      ]
+    ]
+  }
+}

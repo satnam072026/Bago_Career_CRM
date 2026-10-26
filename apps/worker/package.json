@@ -1,0 +1,11 @@
+{
+  "name": "@sandeep-workspace/worker",
+  "version": "2.4.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch src/index.ts",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.json"
+  }
+}

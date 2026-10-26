@@ -1,0 +1,100 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum ProviderKind {
+  GOOGLE_DRIVE
+  MICROSOFT_GRAPH
+  LOCAL_IMPORT
+}
+
+enum WorkbookSyncStatus {
+  SYNCED_INDEXED
+  NEEDS_ATTENTION_UNVERIFIED_SYNC
+  ERROR_ZERO_BYTE
+  DISCONNECTED
+}
+
+model ConnectedAccount {
+  id                  String       @id @default(cuid())
+  provider            ProviderKind
+  accountAlias        String
+  maskedIdentity      String
+  tenantOrWorkspace   String?
+  permissionScopes    String[]
+  encryptedTokenVault String?      // AES-256-GCM encrypted refresh token; never exposed to client
+  connectionStatus    String       // CONNECTED | NOT_CONNECTED | REVOKED
+  lastSuccessfulCheck DateTime?
+  indexingLimitation  String?
+  createdAt           DateTime     @default(now())
+  updatedAt           DateTime     @updatedAt
+  workbooks           Workbook[]
+}
+
+model Workbook {
+  id                String             @id @default(cuid())
+  provider          ProviderKind
+  externalFileId    String             // Canonical provider file ID
+  canonicalUrl      String
+  title             String
+  extension         String
+  mimeType          String
+  ownerEmail        String
+  ownershipCategory String             // Owned by me | Shared with me
+  workspaceCategory String             // Career HQ | Orama Design & Build | BusinessLending.uk | etc.
+  folderPath        String
+  parentId          String?
+  fileSize          Int                @default(0)
+  createdAtSource   DateTime?          // Source-created timestamp (UTC)
+  modifiedAtSource  DateTime?          // Source-modified timestamp (UTC)
+  viewedByMeAt      DateTime?          // Verifiable personal view timestamp; null when unavailable
+  firstIndexedAt    DateTime           @default(now())
+  lastSyncedAt      DateTime           @updatedAt
+  createdInOct2026  Boolean            @default(false)
+  modifiedInOct2026 Boolean            @default(false)
+  viewedInOct2026   Boolean            @default(false)
+  activeInOct2026   Boolean            @default(false)
+  activityReason    String
+  accessRole        String
+  syncMode          String
+  syncStatus        WorkbookSyncStatus @default(SYNCED_INDEXED)
+  headRevisionEtag  String?
+  starred           Boolean            @default(false)
+  accountId         String
+  account           ConnectedAccount   @relation(fields: [accountId], references: [id])
+  tabs              WorkbookTab[]
+  auditEvents       RevisionAuditLog[]
+
+  @@unique([provider, externalFileId])
+  @@index([activeInOct2026, modifiedAtSource])
+  @@index([workspaceCategory])
+}
+
+model WorkbookTab {
+  id         String   @id @default(cuid())
+  workbookId String
+  sheetName  String
+  tabOrder   Int
+  rowCount   Int      @default(100)
+  colCount   Int      @default(26)
+  workbook   Workbook @relation(fields: [workbookId], references: [id], onDelete: Cascade)
+
+  @@unique([workbookId, sheetName])
+}
+
+model RevisionAuditLog {
+  id           String   @id @default(cuid())
+  workbookId   String
+  actorEmail   String
+  operation    String   // RANGE_UPDATE | CHECKPOINT_CREATED | ETAG_CONFLICT_BLOCKED
+  a1Range      String?
+  previousEtag String?
+  newEtag      String?
+  createdAt    DateTime @default(now())
+  workbook     Workbook @relation(fields: [workbookId], references: [id], onDelete: Cascade)
+}
