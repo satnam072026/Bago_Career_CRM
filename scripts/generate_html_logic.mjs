@@ -1292,7 +1292,9 @@ const fullHtml = htmlHeadAndBody + jsScriptBlock;
 
 const indexOut = path.join(rootDir, 'apps/web/public/index.html');
 const previewOut = path.join(rootDir, 'apps/web/public/sandeep_workspace_live_preview.html');
+const rootIndexOut = path.join(rootDir, 'index.html');
 
 fs.writeFileSync(indexOut, fullHtml, 'utf8');
 fs.writeFileSync(previewOut, fullHtml, 'utf8');
-console.log('Successfully generated index.html and sandeep_workspace_live_preview.html (' + fullHtml.length + ' bytes).');
+fs.writeFileSync(rootIndexOut, fullHtml, 'utf8');
+console.log('Successfully generated index.html (root + apps/web/public) and sandeep_workspace_live_preview.html (' + fullHtml.length + ' bytes).');
