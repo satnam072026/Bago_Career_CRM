@@ -77,4 +77,22 @@ test('6. Zero live credentials, tokens, or .env files shipped in repository', ()
   assert.equal(fs.existsSync(path.join(rootDir, '.env.example')), true);
 });
 
-console.log(`=== ALL ${passed}/6 CONTRACT & INTEGRITY TESTS PASSED ===`);
+test('7. All 11 Agent Operational Sheets (4 Daily, 3 Scheduled, 4 Spark) have rich multi-tab grids and clickable UI controls', () => {
+  assert.ok(grids['deadline-dashboard-daily']['Delhi Fares Tracker (DEL)'].length >= 6);
+  assert.ok(grids['1-jsydfLBJibFJjy4dabDCOZpG7m_6bJxdxPYRWHJ1x0']['ALL LEADS'].length >= 8);
+  assert.ok(grids['local-fb-insta-job-hunter']['00_59_Midnight_Sweep_Today'].length >= 6);
+  assert.ok(grids['1F8p-KNl8PLMfRIzRxZ0nFORRHOuF5qL1']['Active Applications Master'].length >= 9);
+  assert.ok(grids['1zGcyFrXBXQKOrmgJngXGYfIlYm1n1s_AV_DlHJ9tgtQ']['ALL SCHEMES'].length >= 7);
+  assert.ok(grids['156pTG6IBQ00x6AP2BFm3sg-zy_iZ4PLj']['Masters Admissions (Mondays 09:58)'].length >= 6);
+  assert.ok(grids['local-freelance-lead-tracker']['Batch Leads Queue'].length >= 5);
+  assert.ok(grids['15hOKXuvZDIrytvqRLQNvLQx4w7wTdFS-DSnvT1XIkOw']['16 Oct 2026'].length >= 6);
+  assert.ok(grids['1wi4i3qpDLOzfNXa5_AR6Bvhb4w40xTr4QQmM9qGAzj4']['16 Oct 2026'].length >= 5);
+  assert.ok(grids['1ECo6MFxrDXpOQlTyCRGor5XUgE8e4t2zL-LXWJRFN5A']['16 Oct 2026'].length >= 7);
+  assert.ok(grids['1tIi0TiQ0L1fNUcqTWTsRVJhV-69g3pbrHGGkhmGGvyo']['16 Oct 2026'].length >= 4);
+
+  const indexHtml = fs.readFileSync(path.join(rootDir, 'apps/web/public/index.html'), 'utf8');
+  assert.ok(indexHtml.includes('id="brandLogoBtn"'), 'Clickable Sandeep Workspace logo button must exist');
+  assert.ok(indexHtml.includes('id="agentOperationsHub"'), 'Agent Operations Hub must exist');
+});
+
+console.log(`=== ALL ${passed}/7 CONTRACT & INTEGRITY TESTS PASSED ===`);
